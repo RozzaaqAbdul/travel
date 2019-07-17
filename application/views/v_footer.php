@@ -4,7 +4,7 @@
 					<div class="row">
 						<div class="col-lg-3  col-md-6 col-sm-6">
 							<div class="single-footer-widget">
-								<h6>About Agency</h6>
+								<h6>About Travel</h6>
 								<p>
 									The world has become so fast paced that people don’t want to stand by reading a page of information, they would much rather look at a presentation and understand the message. It has come to a point 
 								</p>
@@ -17,16 +17,13 @@
 									<div class="col">
 										<ul>
 											<li><a href="#">Home</a></li>
-											<li><a href="#">Feature</a></li>
-											<li><a href="#">Services</a></li>
-											<li><a href="#">Portfolio</a></li>
+											<li><a href="#">Package</a></li>
+											<li><a href="#">Booking</a></li>
+											<li><a href="#">About</a></li>
 										</ul>
 									</div>
 									<div class="col">
 										<ul>
-											<li><a href="#">Team</a></li>
-											<li><a href="#">Pricing</a></li>
-											<li><a href="#">Blog</a></li>
 											<li><a href="#">Contact</a></li>
 										</ul>
 									</div>										
