@@ -4,15 +4,15 @@
 					<div class="row">
 						<div class="col-lg-3  col-md-6 col-sm-6">
 							<div class="single-footer-widget">
-								<h6>About Travel</h6>
+								<h6>Tentang Travel</h6>
 								<p>
-									The world has become so fast paced that people don’t want to stand by reading a page of information, they would much rather look at a presentation and understand the message. It has come to a point 
+									Dika Tour merupakan perusahaan yang bergerak dalam penyedian wisata dengan harga kompetitif, didukung oleh staf yang sesuai, yang berpengalaman dalam keterampilan industri pariwisata.
 								</p>
 							</div>
 						</div>
 						<div class="col-lg-3 col-md-6 col-sm-6">
 							<div class="single-footer-widget">
-								<h6>Navigation Links</h6>
+								<h6>Halaman Navigasi</h6>
 								<div class="row">
 									<div class="col">
 										<ul>
@@ -65,9 +65,8 @@
 					</div>
 
 					<div class="row footer-bottom d-flex justify-content-between align-items-center">
-						<p class="col-lg-8 col-sm-12 footer-text m-0"><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="fa fa-heart-o" aria-hidden="true"></i> by <a target="_blank">Dika Tour & Travel</a>
-<!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></p>
+						<p class="col-lg-8 col-sm-12 footer-text m-0">
+Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This web is made with <i class="fa fa-heart-o" aria-hidden="true"></i> by <a target="_blank">Dika Tour & Travel</a></p>
 						<div class="col-lg-4 col-sm-12 footer-social">
 							<a href="#"><i class="fa fa-facebook"></i></a>
 							<a href="#"><i class="fa fa-twitter"></i></a>

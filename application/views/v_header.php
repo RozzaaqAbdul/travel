@@ -28,7 +28,7 @@
 				        <ul class="nav-menu">
 				          <li><a href="<?=site_url()?>">Home</a></li>
 				          <li><a href="<?=site_url("package")?>">Packages</a></li>
-				          <li><a href="hotels.html">Booking</a></li>
+				          <li><a href="">Booking</a></li>
 						  <li><a href="<?=site_url("about")?>">About</a></li>		          		          
 				          <li><a href="<?=site_url("contact")?>">Contact</a></li>
 				        </ul>
